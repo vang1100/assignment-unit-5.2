@@ -3,3 +3,14 @@ header{
     color: white;
     text-align: center;
 }
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+    text-align: center;
+}
+
+body{
+    background-image: url("record.png");
+    margin: 0;
+}
